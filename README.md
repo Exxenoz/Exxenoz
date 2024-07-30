@@ -1,8 +1,6 @@
 # Hi there, I'm Andreas! 👋
 
-- 💻 **Freelancer:** I enjoy taking on new projects and challenges that help me grow and refine my skills.
-- 💡 **Favorite Languages:** TypeScript and C# are my current favorites, but I am versatile and experienced in various other languages.
-- 🚀 **Projects:** I work on a mix of personal and client projects, aiming to create impactful and innovative software solutions.
+[![trophy](https://github-profile-trophy.vercel.app/?username=Exxenoz&theme=onedark)](https://sumguy.com)
 
 <!--
 **Exxenoz/Exxenoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
